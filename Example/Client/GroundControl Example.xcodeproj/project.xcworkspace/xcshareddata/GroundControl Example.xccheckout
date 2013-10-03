@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>083F34BD-AFA4-40B6-9134-9253CC5756B5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GroundControl Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8AAAAC29-F612-4ADF-A5DE-4122322F6ADB</key>
+		<string>https://github.com/mattt/GroundControl.git</string>
+		<key>FBFB3A29-2B12-40DA-9CF2-039708F23628</key>
+		<string>https://github.com/AFNetworking/AFNetworking.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/Client/GroundControl Example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8AAAAC29-F612-4ADF-A5DE-4122322F6ADB</key>
+		<string>../../../..</string>
+		<key>FBFB3A29-2B12-40DA-9CF2-039708F23628</key>
+		<string>../../../../AFNetworking</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mattt/GroundControl.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8AAAAC29-F612-4ADF-A5DE-4122322F6ADB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FBFB3A29-2B12-40DA-9CF2-039708F23628</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AFNetworking</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8AAAAC29-F612-4ADF-A5DE-4122322F6ADB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GroundControl</string>
+		</dict>
+	</array>
+</dict>
+</plist>
